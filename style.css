@@ -1,0 +1,43 @@
+h1{
+    color: rgb(21, 0, 61);
+    font-size: 35px;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2{
+    color: rgb(21, 0, 61);
+    font-size: 25px;
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    border-radius: 20px;
+}
+
+p{
+    color: rgb(0, 18, 97);
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+ul{
+    color: rgb(0, 18, 97);
+    font-size: 20px;
+
+}
+
+ol{
+    color: rgb(0, 18, 97);
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(181, 214, 255);
+}
